@@ -41,3 +41,4 @@ function anyvalue(value) {
 }
 //anyvalue(prompt("Input Value to check is it Palindrome or Not"));
 anyvalue("Mr. Owl ate my metal worm");
+anyvalue("madam");

@@ -1,5 +1,5 @@
 console.log("\tQ3 (Uppecase, Lowercase and Titlecase)\t");
-console.log("\t++++++++++++++++++++++++++++++++++++++\t");
+console.log("\t______________________________________\t");
 
 let A = "aQeEl mAnSoOr aLi";
 let B = A.toUpperCase();
